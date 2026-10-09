@@ -1,0 +1,10 @@
+#environment variables
+*.env
+!.env.example
+
+#virtual envinroment
+venv
+.venv
+
+#python cache
+__pycache__
